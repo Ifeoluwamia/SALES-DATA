@@ -2,6 +2,23 @@
 Part of the Lita Capstone Project, this repository contains a sales dataset used to analyze revenue trends, product performance, and regional sales distribution. Insights from this analysis will support decision-making in sales strategies, inventory management, and marketing.
 
 ### Lita Capstone Project - Sales Dataset
+[Project Overview](#project-overview)
+
+[Project Dataset](#project-dataset)
+
+[Data Fields](#data-fields)
+
+[Key Metrics](#key-metrics)
+
+[Usage](#usage)
+
+[Tools Used](#tools-used)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
+
+
 ### Project Overview
 The *Sales Dataset* repository is part of the *Lita Capstone Project*, focused on analyzing sales data across various regions and products. This dataset allows us to track revenue performance, identify top-selling products, and examine regional sales patterns. The goal is to derive insights that support data-driven decision-making for sales strategies, inventory optimization, and revenue growth.
 ### Project Dataset
@@ -24,5 +41,38 @@ This data can be used to:
 1. Identify top-selling products and seasonal sales trends.
 2. Evaluate sales performance across different regions.
 3. Monitor monthly revenue patterns to optimize inventory and forecast demand.
+
+   ### Tools Used
+ ##### Microsoft Excel [Download here](https:www.microsoft.com)
+* For data cleaning
+* Analysis
+* For Data Visualization
+##### SQL (Structure Query Language)
+* For extracting key insights from the dataset
+* For Data Quering
+##### PowerBI
+* Used to create interactive dashboards and visualizations.
+
+![SALES PERFORMANCE DASHBOARD](https://github.com/user-attachments/assets/d244c8ce-1cac-41fb-8981-2db0fba88c13)
+
+  ### Data Cleaning And Preparation
+  We perform the following
+  1. Data loading and Inspection
+  2. Handling missing Variables
+  3. Data Cleaning and Formatting
+
+### Recommendations
+
+Based on sales data insights:
+
+- Focus on Best Sellers*: Prioritize inventory and marketing for top products to boost revenue.
+- Optimize by Region*: Tailor strategies to meet regional demand effectively.
+- Adjust Pricing*: Refine prices and promotions to drive sales across all products.
+- Plan Seasonally*: Use sales trends to manage inventory and resources efficiently.
+
+  ### Conclusion
+
+This sales data analysis provides actionable insights to help optimize sales strategies, improve resource allocation, and enhance customer satisfaction. By focusing on high-performing products, adjusting regional strategies, refining pricing, and planning around seasonal trends, the business can drive growth and make informed, data-driven decisions. Continued analysis will further support sustained success and adaptability in a competitive market.
+Implementing these recommendations can enhance sales performance and support data-driven decisions.
 
 
